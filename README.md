@@ -1,5 +1,6 @@
 # cs2620-time
-
+By Zijian (Carl) Ma and Alex Geng
+Full Engineering Notebook: https://docs.google.com/document/d/1aPtVlrZ9ZlQ2iQyOhsGQcFSgXAOnO0vKZNSfnbas1h0/edit?usp=sharing
 # Final Summary
 
 <details>
