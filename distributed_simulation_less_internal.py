@@ -92,7 +92,7 @@ class VirtualMachine:
                 except queue.Empty:
                     pass
             else:
-                event_choice = random.randint(1, 10)
+                event_choice = random.randint(1, 4)
                 if event_choice == 1:
                     # Send to first partner, if available.
                     if self.partner_info:

@@ -133,7 +133,7 @@ class VirtualMachine:
 
 def vm_process(vm_id, run_duration):
     """Process target for each Virtual Machine."""
-    tick_rate = random.randint(1, 6)
+    tick_rate = random.uniform(2, 3)
     # Prepare partner info: (partner_id, host, port) for every other VM.
     partner_info = [(pid, 'localhost', BASE_PORT + pid) for pid in range(NUM_MACHINES) if pid != vm_id]
     vm = VirtualMachine(vm_id, tick_rate, partner_info, run_duration)

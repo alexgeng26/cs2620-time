@@ -1,0 +1,137 @@
+SEND to VMs 0, 1 | System Time: 1741194681.8865 | Logical Clock: 1 | Message Clock Sent: 0
+INTERNAL | System Time: 1741194682.3292 | Logical Clock: 2 | 
+SEND to VM 0 | System Time: 1741194682.7699 | Logical Clock: 3 | Message Clock Sent: 2
+INTERNAL | System Time: 1741194683.2118 | Logical Clock: 4 | 
+RECEIVE | System Time: 1741194683.6508 | Logical Clock: 5 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194684.0921 | Logical Clock: 6 | 
+INTERNAL | System Time: 1741194684.5320 | Logical Clock: 7 | 
+INTERNAL | System Time: 1741194684.9692 | Logical Clock: 8 | 
+RECEIVE | System Time: 1741194685.4101 | Logical Clock: 10 | From VM 0, Queue Length: 0
+RECEIVE | System Time: 1741194685.8513 | Logical Clock: 11 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194686.2925 | Logical Clock: 12 | 
+RECEIVE | System Time: 1741194686.7323 | Logical Clock: 13 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194687.1731 | Logical Clock: 14 | 
+RECEIVE | System Time: 1741194687.6116 | Logical Clock: 15 | From VM 1, Queue Length: 0
+RECEIVE | System Time: 1741194688.0522 | Logical Clock: 18 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194688.4934 | Logical Clock: 19 | 
+RECEIVE | System Time: 1741194688.9330 | Logical Clock: 21 | From VM 0, Queue Length: 0
+RECEIVE | System Time: 1741194689.3754 | Logical Clock: 22 | From VM 0, Queue Length: 0
+RECEIVE | System Time: 1741194689.8168 | Logical Clock: 23 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194690.2581 | Logical Clock: 24 | 
+INTERNAL | System Time: 1741194690.6951 | Logical Clock: 25 | 
+INTERNAL | System Time: 1741194691.1373 | Logical Clock: 26 | 
+INTERNAL | System Time: 1741194691.5773 | Logical Clock: 27 | 
+RECEIVE | System Time: 1741194692.0189 | Logical Clock: 29 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194692.4611 | Logical Clock: 30 | 
+SEND to VMs 0, 1 | System Time: 1741194692.9027 | Logical Clock: 31 | Message Clock Sent: 30
+INTERNAL | System Time: 1741194693.3426 | Logical Clock: 32 | 
+RECEIVE | System Time: 1741194693.7818 | Logical Clock: 35 | From VM 0, Queue Length: 0
+RECEIVE | System Time: 1741194694.2192 | Logical Clock: 36 | From VM 1, Queue Length: 1
+RECEIVE | System Time: 1741194694.6580 | Logical Clock: 37 | From VM 0, Queue Length: 1
+RECEIVE | System Time: 1741194695.0965 | Logical Clock: 38 | From VM 0, Queue Length: 0
+SEND to VMs 0, 1 | System Time: 1741194695.5377 | Logical Clock: 39 | Message Clock Sent: 38
+INTERNAL | System Time: 1741194695.9810 | Logical Clock: 40 | 
+INTERNAL | System Time: 1741194696.4196 | Logical Clock: 41 | 
+RECEIVE | System Time: 1741194696.8610 | Logical Clock: 44 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194697.3018 | Logical Clock: 45 | 
+RECEIVE | System Time: 1741194697.7429 | Logical Clock: 46 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194698.1816 | Logical Clock: 47 | 
+RECEIVE | System Time: 1741194698.6189 | Logical Clock: 48 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194699.0581 | Logical Clock: 49 | 
+INTERNAL | System Time: 1741194699.4995 | Logical Clock: 50 | 
+INTERNAL | System Time: 1741194699.9365 | Logical Clock: 51 | 
+RECEIVE | System Time: 1741194700.3754 | Logical Clock: 52 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194700.8136 | Logical Clock: 53 | 
+RECEIVE | System Time: 1741194701.2536 | Logical Clock: 54 | From VM 1, Queue Length: 0
+RECEIVE | System Time: 1741194701.6947 | Logical Clock: 57 | From VM 0, Queue Length: 1
+RECEIVE | System Time: 1741194702.1361 | Logical Clock: 58 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194702.5772 | Logical Clock: 59 | 
+INTERNAL | System Time: 1741194703.0184 | Logical Clock: 60 | 
+SEND to VM 1 | System Time: 1741194703.4563 | Logical Clock: 61 | Message Clock Sent: 60
+SEND to VMs 0, 1 | System Time: 1741194703.8960 | Logical Clock: 62 | Message Clock Sent: 61
+INTERNAL | System Time: 1741194704.3378 | Logical Clock: 63 | 
+RECEIVE | System Time: 1741194704.7757 | Logical Clock: 66 | From VM 0, Queue Length: 0
+RECEIVE | System Time: 1741194705.2168 | Logical Clock: 68 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194705.6588 | Logical Clock: 69 | 
+RECEIVE | System Time: 1741194706.0969 | Logical Clock: 70 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194706.5373 | Logical Clock: 71 | 
+INTERNAL | System Time: 1741194706.9740 | Logical Clock: 72 | 
+INTERNAL | System Time: 1741194707.4133 | Logical Clock: 73 | 
+INTERNAL | System Time: 1741194707.8505 | Logical Clock: 74 | 
+INTERNAL | System Time: 1741194708.2871 | Logical Clock: 75 | 
+SEND to VMs 0, 1 | System Time: 1741194708.7246 | Logical Clock: 76 | Message Clock Sent: 75
+SEND to VMs 0, 1 | System Time: 1741194709.1671 | Logical Clock: 77 | Message Clock Sent: 76
+INTERNAL | System Time: 1741194709.6096 | Logical Clock: 78 | 
+RECEIVE | System Time: 1741194710.0518 | Logical Clock: 81 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194710.4902 | Logical Clock: 82 | 
+RECEIVE | System Time: 1741194710.9297 | Logical Clock: 83 | From VM 1, Queue Length: 0
+SEND to VM 1 | System Time: 1741194711.3684 | Logical Clock: 84 | Message Clock Sent: 83
+INTERNAL | System Time: 1741194711.8109 | Logical Clock: 85 | 
+INTERNAL | System Time: 1741194712.2525 | Logical Clock: 86 | 
+RECEIVE | System Time: 1741194712.6941 | Logical Clock: 87 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194713.1356 | Logical Clock: 88 | 
+INTERNAL | System Time: 1741194713.5773 | Logical Clock: 89 | 
+INTERNAL | System Time: 1741194714.0192 | Logical Clock: 90 | 
+RECEIVE | System Time: 1741194714.4597 | Logical Clock: 93 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194714.9020 | Logical Clock: 94 | 
+INTERNAL | System Time: 1741194715.3429 | Logical Clock: 95 | 
+RECEIVE | System Time: 1741194715.7857 | Logical Clock: 96 | From VM 1, Queue Length: 0
+RECEIVE | System Time: 1741194716.2269 | Logical Clock: 97 | From VM 1, Queue Length: 1
+RECEIVE | System Time: 1741194716.6679 | Logical Clock: 99 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194717.1093 | Logical Clock: 100 | 
+SEND to VM 0 | System Time: 1741194717.5464 | Logical Clock: 101 | Message Clock Sent: 100
+SEND to VMs 0, 1 | System Time: 1741194717.9900 | Logical Clock: 102 | Message Clock Sent: 101
+SEND to VM 0 | System Time: 1741194718.4302 | Logical Clock: 103 | Message Clock Sent: 102
+SEND to VMs 0, 1 | System Time: 1741194718.8690 | Logical Clock: 104 | Message Clock Sent: 103
+INTERNAL | System Time: 1741194719.3082 | Logical Clock: 105 | 
+RECEIVE | System Time: 1741194719.7462 | Logical Clock: 109 | From VM 0, Queue Length: 1
+RECEIVE | System Time: 1741194720.2317 | Logical Clock: 110 | From VM 1, Queue Length: 0
+RECEIVE | System Time: 1741194720.7006 | Logical Clock: 111 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194721.1393 | Logical Clock: 112 | 
+SEND to VM 1 | System Time: 1741194721.5805 | Logical Clock: 113 | Message Clock Sent: 112
+INTERNAL | System Time: 1741194722.0221 | Logical Clock: 114 | 
+SEND to VM 0 | System Time: 1741194722.4610 | Logical Clock: 115 | Message Clock Sent: 114
+RECEIVE | System Time: 1741194722.8998 | Logical Clock: 119 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194723.3362 | Logical Clock: 120 | 
+INTERNAL | System Time: 1741194723.7784 | Logical Clock: 121 | 
+SEND to VM 0 | System Time: 1741194724.2190 | Logical Clock: 122 | Message Clock Sent: 121
+RECEIVE | System Time: 1741194724.6567 | Logical Clock: 123 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194725.0979 | Logical Clock: 124 | 
+INTERNAL | System Time: 1741194725.5388 | Logical Clock: 125 | 
+RECEIVE | System Time: 1741194725.9784 | Logical Clock: 126 | From VM 1, Queue Length: 0
+SEND to VM 1 | System Time: 1741194726.4194 | Logical Clock: 127 | Message Clock Sent: 126
+SEND to VM 1 | System Time: 1741194726.8596 | Logical Clock: 128 | Message Clock Sent: 127
+SEND to VM 1 | System Time: 1741194727.3035 | Logical Clock: 129 | Message Clock Sent: 128
+RECEIVE | System Time: 1741194727.7437 | Logical Clock: 133 | From VM 0, Queue Length: 0
+RECEIVE | System Time: 1741194728.1858 | Logical Clock: 134 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194728.6342 | Logical Clock: 135 | 
+RECEIVE | System Time: 1741194729.0757 | Logical Clock: 136 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194729.5160 | Logical Clock: 137 | 
+INTERNAL | System Time: 1741194729.9562 | Logical Clock: 138 | 
+SEND to VM 0 | System Time: 1741194730.3943 | Logical Clock: 139 | Message Clock Sent: 138
+SEND to VMs 0, 1 | System Time: 1741194730.8357 | Logical Clock: 140 | Message Clock Sent: 139
+INTERNAL | System Time: 1741194731.2783 | Logical Clock: 141 | 
+INTERNAL | System Time: 1741194731.7180 | Logical Clock: 142 | 
+SEND to VMs 0, 1 | System Time: 1741194732.1575 | Logical Clock: 143 | Message Clock Sent: 142
+INTERNAL | System Time: 1741194732.6004 | Logical Clock: 144 | 
+INTERNAL | System Time: 1741194733.0421 | Logical Clock: 145 | 
+SEND to VMs 0, 1 | System Time: 1741194733.4836 | Logical Clock: 146 | Message Clock Sent: 145
+INTERNAL | System Time: 1741194733.9238 | Logical Clock: 147 | 
+RECEIVE | System Time: 1741194734.3631 | Logical Clock: 151 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194734.8034 | Logical Clock: 152 | 
+SEND to VM 1 | System Time: 1741194735.2414 | Logical Clock: 153 | Message Clock Sent: 152
+INTERNAL | System Time: 1741194735.6849 | Logical Clock: 154 | 
+INTERNAL | System Time: 1741194736.1262 | Logical Clock: 155 | 
+INTERNAL | System Time: 1741194736.5637 | Logical Clock: 156 | 
+INTERNAL | System Time: 1741194737.0023 | Logical Clock: 157 | 
+RECEIVE | System Time: 1741194737.4421 | Logical Clock: 160 | From VM 0, Queue Length: 0
+SEND to VM 0 | System Time: 1741194737.8822 | Logical Clock: 161 | Message Clock Sent: 160
+INTERNAL | System Time: 1741194738.3205 | Logical Clock: 162 | 
+INTERNAL | System Time: 1741194738.7596 | Logical Clock: 163 | 
+RECEIVE | System Time: 1741194739.1967 | Logical Clock: 164 | From VM 1, Queue Length: 1
+RECEIVE | System Time: 1741194739.6365 | Logical Clock: 166 | From VM 0, Queue Length: 0
+INTERNAL | System Time: 1741194740.0763 | Logical Clock: 167 | 
+RECEIVE | System Time: 1741194740.5181 | Logical Clock: 168 | From VM 1, Queue Length: 0
+INTERNAL | System Time: 1741194740.9596 | Logical Clock: 169 | 
+SEND to VMs 0, 1 | System Time: 1741194741.4018 | Logical Clock: 170 | Message Clock Sent: 169
+INTERNAL | System Time: 1741194741.8406 | Logical Clock: 171 | 
