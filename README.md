@@ -71,7 +71,7 @@ INTERNAL | ... | Logical Clock: 2
 <details>
 <summary>5. Observations</summary>
   
-![Logical Clock Dynamic](trials/Trial1/logical_clock_drift.png)
+![Logical Clock Dynamic](trials/Trial7/logical_clock_drift.png)
 
 ### Extreme Drift and Message Overload Impact
 #### A. The Effect of Reducing Internal Events
