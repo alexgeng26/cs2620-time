@@ -38,6 +38,8 @@ INTERNAL | ... | Logical Clock: 2
 <details>
 <summary>3. Gaps and Patterns in Logical Clock Values</summary>
 
+![Logical Clock Dynamic](trials/Trial1/Figure_1.png)
+
 ### Gaps as Macro-Level Patterns:
 - **Jump Sizes:** The difference between consecutive logical clock values.
 - **Overall Pattern:** Larger jumps (or gaps) occur when a machine receives a message from a faster machine, causing a significant catch-up jump.
